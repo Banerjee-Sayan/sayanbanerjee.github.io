@@ -78,7 +78,7 @@
 }
 #bodycontainer::before{
     content: "";
-  background: url(../Images/bodybg1.jpg) left;
+  background: url(../Images/bg.jpg) left;
   position: absolute;
   height: 100%;
   width: 100%;
@@ -165,7 +165,7 @@
     transition-delay: 0.3s;
 }
 #aboutmyselftext{
-    background: url(../Images/bodybg1.jpg);
+    background: url(../Images/bg.jpg);
     color: rgb(236, 236, 236);
     height: 80vh;
     font-size: 1.5rem;
@@ -185,7 +185,7 @@
     font-size: 3rem;
 }
 .skilltext{
-    background: url(../Images/bodybg1.jpg);
+    background: url(../Images/bg.jpg);
     height: 50vh;
     align-items: center;
     justify-content: center;
@@ -225,7 +225,7 @@ hr{
 .projecttext{
     display: flex;
     height: 70vh;
-    background: url(../Images/bodybg1.jpg);
+    background: url(../Images/bg.jpg);
     color: white;
     padding: 2% 2% 2% 2%;
 
@@ -288,7 +288,7 @@ hr{
 }
 .contactbody{
     height: 60vh;
-    background: url(../Images/bodybg1.jpg);
+    background: url(../Images/bg.jpg);
     display: flex;
     padding: 5% 5% 5% 5%;
     
@@ -353,7 +353,7 @@ hr{
     
 }
 .socialmedia{
-    background: url(../Images/bodybg1.jpg);
+    background: url(../Images/bg.jpg);
     height: 20vh;
     padding-top: 1%;
     
